@@ -8,7 +8,7 @@ In the front end
 
 ![image](https://github.com/andrefelipepp/andrefelipepp/assets/144925799/9eba5753-a26f-4850-abe8-0687709f2095) ![image](https://github.com/andrefelipepp/andrefelipepp/assets/144925799/37089ae5-1378-47b7-b176-1e808f1ac3a5)
  ![image](https://github.com/andrefelipepp/andrefelipepp/assets/144925799/f3603021-90c6-4d40-8f97-2b1a1abd99e1 )  ![image](https://github.com/user-attachments/assets/c27fec0d-de08-470c-b537-bf4edcd595d9)
- 📚 STUDYING...
+   📚 STUDYING...
 
 In the back end
 
