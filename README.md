@@ -1,4 +1,4 @@
-### Hello, there 👋
+### Hello, World 👋
 
 My name is André, I'm 20 years old and I'm a web developer from Natal, Rio Grande do Norte. I'm passionate about programming and I'm constantly learning and improving my skills. My goal is to create amazing websites and apps that solve real-world problems while providing a great experience on all devices. I am studying all the time and creating practical projects to improve my learning. My desire to learn is insatiable, studying programming is very important to me, I am completely dedicated to what I believe in and I never give up on my dreams.
 
