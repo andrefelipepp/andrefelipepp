@@ -1,7 +1,11 @@
 # 💫About Me :
-My name is André, I'm 20 years old and I'm a web developer from Natal, Rio Grande do Norte. I am passionate about programming and am constantly learning and improving my skills. My goal is to create amazing websites and apps that solve real-world problems while providing a great experience on all devices. I'm studying all the time and creating hands-on projects to improve my learning. My desire to learn is insatiable, studying programming is very important to me, I dedicate myself completely to what I believe in and never give up on my dreams.
+Sou estudante de Ciência e Tecnologia (CeT) na UFRN e estou no último semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNP. Após o CeT, pretendo seguir para o 2º ciclo em Engenharia da Computação na UFRN.
 
-I love working in a team and I am also calm and able to deal with everyday problems. I'm always looking for knowledge and open to new challenges and exciting projects, let's work together and create amazing solutions?
+Tenho interesse em desenvolvimento de software e programação, buscando oportunidades para aplicar meus conhecimentos em projetos reais e continuar evoluindo profissionalmente.
+
+Possuo conhecimentos em Python, C, C++, JavaScript, C#, HTML, CSS, PHP e Git, desenvolvidos por meio da graduação, estudos e projetos práticos.
+
+Atualmente, estou em busca de oportunidades na área de desenvolvimento, especialmente em posições de estágio e início de carreira, onde possa contribuir com a equipe e ampliar minha experiência prática.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Dedezaum#5528) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andrefelipepp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andrefelipepp) 
